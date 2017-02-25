@@ -1,0 +1,6 @@
+I'm a mew text file.
+
+///* 2017-02-25
+1.Continuing to learn jQuery & Javascript turitial 
+2.Finished the form
+3.In serach of Vue and fill the task text primarily
